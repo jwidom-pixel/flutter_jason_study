@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-void main() {
+void test() {
 Map<String , dynamic> map =
 	{
 		"name": "박해솔",
